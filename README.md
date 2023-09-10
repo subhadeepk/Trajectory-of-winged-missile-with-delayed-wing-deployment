@@ -17,5 +17,4 @@ You may either download the files in MLX and and open stable1.mlx using Matlab. 
 ![Angle of velocity vector v time](https://github.com/subhadeepk/Trajectory-of-winged-missile-with-delayed-wing-deployment/assets/109573774/8b686955-d9e1-4637-b3d6-4f34faf127d7)
 -deployment/assets/109573774/2d804ab6-75c6-42f7-9875-b70865b8501d)
 ![Magnitude of velocity v time](https://github.com/subhadeepk/Trajectory-of-winged-missile-with-delayed-wing-deployment/assets/109573774/70c0dcf0-0c6b-400b-bbcc-7b538d8b7757)
-y-of-winged-missile-with-delayed-wing-deployment/assets/109573774/8b686955-d9e1-4637-b3d6-4f34faf127d7)
--deployment/assets/109573774/2d804ab6-75c6-42f7-9875-b70865b8501d)
+
